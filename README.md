@@ -10,6 +10,7 @@
 An web application for classifying Alzheimer's disease stages from structural brain MRI scans using deep learning. Features explainable AI with Grad-CAM++ visualizations and comprehensive clinical insights.
 
 **Developed by:** Uday Islam & Kritanu Chattopadhyay
+
 **Additional Contributor:** Michael Mabayomije Jinadu
 ---
 
