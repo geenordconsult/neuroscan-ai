@@ -11,7 +11,7 @@ An web application for classifying Alzheimer's disease stages from structural br
 
 **Developed by:** Uday Islam & Kritanu Chattopadhyay
 
-**Additional Contributor:** Michael Mabayomije Jinadu
+**Additional Contributor:**  Michael Mabayomije Jinadu
 ---
 
 ## 🎯 Overview
